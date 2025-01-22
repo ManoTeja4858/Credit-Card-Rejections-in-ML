@@ -1,6 +1,6 @@
 ![credit_card](https://github.com/user-attachments/assets/24ee9cca-8859-446f-a287-81068d347f21)
 
-# 💳 Credit Card Approvals with Machine Learning
+# 💳 Credit Card Rejections with Machine Learning
 
 This project leverages machine learning to predict credit card approvals, tackling real-world challenges in financial decision-making. We preprocess data, engineer features, and use models like Logistic Regression and Random Forest to make accurate predictions. 🚀
 
@@ -8,7 +8,7 @@ This project leverages machine learning to predict credit card approvals, tackli
 
 ## 📌 Problem Statement
 
-Credit card approval is a critical decision for financial institutions. 🏦 It requires assessing applicants' financial stability and risk while maintaining fairness. This project addresses key challenges in the approval process:
+Credit card rejections is a critical decision for financial institutions. 🏦 It requires assessing applicants' financial stability and risk while maintaining fairness. This project addresses key challenges in the approval process:
 
 ### 🛑 **Key Challenges**
 1. 🔍 **Incomplete Data**: Missing or invalid entries (e.g., `'?'`) require proper handling.
