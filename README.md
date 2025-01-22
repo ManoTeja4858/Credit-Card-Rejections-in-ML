@@ -1,8 +1,7 @@
-![credit_card](https://github.com/user-attachments/assets/24ee9cca-8859-446f-a287-81068d347f21)
 
 # 💳 Credit Card Rejections with Machine Learning
 
-This project leverages machine learning to predict credit card approvals, tackling real-world challenges in financial decision-making. We preprocess data, engineer features, and use models like Logistic Regression and Random Forest to make accurate predictions. 🚀
+This project leverages machine learning to predict credit card rejections, tackling real-world challenges in financial decision-making. We preprocess data, engineer features, and use models like Logistic Regression and Random Forest to make accurate predictions. 🚀
 
 ---
 
@@ -60,7 +59,7 @@ Credit card rejections is a critical decision for financial institutions. 🏦 I
 ---
 
 ## 📂 How to Use
-1. 🚀 Open `notebook.ipynb` in Jupyter Notebook.
+1. 🚀 Open `notebook.ipynb`.
 2. 🔧 Follow preprocessing steps to clean and scale the data.
 3. 🧠 Train and evaluate models using the provided code.
 4. 📊 Review results and insights in the notebook output.
